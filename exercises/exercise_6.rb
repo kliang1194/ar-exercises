@@ -16,4 +16,3 @@ puts "----------"
 @store2.employees.create(first_name: "Hermione", last_name: "Granger", hourly_rate: 60)
 @store2.employees.create(first_name: "Draco", last_name: "Malfoy", hourly_rate: 65)
 @store2.employees.create(first_name: "Albus", last_name: "Dumbledore", hourly_rate: 70)
-
